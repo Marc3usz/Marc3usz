@@ -12,12 +12,12 @@
 
 <div align="center">
 
-```
+<pre>
 ╔══════════════════════════════════════════╗
 ║         Marcel Geba  •  @Marc3usz        ║
 ║   Student  •  Systems Thinker  •  Builder ║
 ╚══════════════════════════════════════════╝
-```
+</pre>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelgeba)
 [![GitHub followers](https://img.shields.io/github/followers/Marc3usz?style=flat-square&label=Follow&logo=github)](https://github.com/Marc3usz)
