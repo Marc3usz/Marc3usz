@@ -1,17 +1,5 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Marc3usz/Marc3usz/blob/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Marc3usz/Marc3usz/blob/output/github-snake.svg">
-  <img alt="github contribution snake" src="https://github.com/Marc3usz/Marc3usz/blob/output/github-snake-dark.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
 <pre>
 ╔══════════════════════════════════════════╗
 ║         Marcel Geba  •  @Marc3usz        ║
@@ -82,6 +70,12 @@ obsession:  C — close to the metal, close to the truth
 <img src="https://github-readme-stats.vercel.app/api?username=Marc3usz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00ADD8&icon_color=f1413d" onerror="this.style.display='none'" alt="" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marc3usz&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00ADD8" onerror="this.style.display='none'" alt="" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Marc3usz/Marc3usz/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Marc3usz/Marc3usz/blob/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://github.com/Marc3usz/Marc3usz/blob/output/github-snake-dark.svg">
+</picture>
 
 </div>
 
