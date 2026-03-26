@@ -77,11 +77,11 @@ obsession:  C — close to the metal, close to the truth
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Marc3usz&theme=dark&hide_border=true&background=0D1117&ring=00ADD8&fire=f1413d&currStreakLabel=ffffff)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Marc3usz&theme=dark&hide_border=true&background=0D1117&ring=00ADD8&fire=f1413d&currStreakLabel=ffffff" onerror="this.style.display='none'" alt="" />
 
-![Marc3usz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marc3usz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00ADD8&icon_color=f1413d)
+<img src="https://github-readme-stats.vercel.app/api?username=Marc3usz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00ADD8&icon_color=f1413d" onerror="this.style.display='none'" alt="" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marc3usz&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00ADD8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marc3usz&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00ADD8" onerror="this.style.display='none'" alt="" />
 
 </div>
 
