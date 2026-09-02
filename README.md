@@ -3,7 +3,7 @@
 <pre>
 ╔══════════════════════════════════════════╗
 ║         Marcel Geba  •  @Marc3usz        ║
-║   Student  •  Systems Thinker  •  Builder ║
+║  Student  •  Systems Thinker  •  Builder ║
 ╚══════════════════════════════════════════╝
 </pre>
 
