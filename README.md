@@ -95,10 +95,13 @@ Under the hood, the AI features lean on retrieval-augmented generation (RAG) to 
  
 ### Stack
  
-- **Frontend:** Next.js
-- **Backend:** Go
-- **Database:** PostgreSQL (via Supabase)
-- **Hosting:** Railway
+- **Frontend:** Next.js, TypeScript, Tailwind CSS, React Server Components
+- **Backend:** Go, REST API, Supabase Auth for identity/session management
+- **AI/ML:** RAG pipeline with vector embeddings, LLM orchestration for the AI tutor, search, and deep search features
+- **Database:** PostgreSQL (via Supabase), with a vector store for embeddings
+- **Infrastructure:** Railway for hosting/deployment, CI/CD pipelines, Supabase for managed Postgres + storage
+- **Tooling:** ESLint/Prettier, environment-based config for dev/staging/prod
+- 
 ### Status
  
 Actively developed, private repo.
