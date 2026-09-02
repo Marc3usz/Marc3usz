@@ -58,6 +58,7 @@ obsession:  C — close to the metal, close to the truth
 ### 🧪 Testing & DevOps
 ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/RAILWAY-h?color=black&style=for-the-badge&logo=railway)
 
 ---
 
