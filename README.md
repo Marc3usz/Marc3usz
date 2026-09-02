@@ -101,7 +101,7 @@ Under the hood, the AI features lean on retrieval-augmented generation (RAG) to 
 - **Database:** PostgreSQL (via Supabase), with a vector store for embeddings
 - **Infrastructure:** Railway for hosting/deployment, CI/CD pipelines, Supabase for managed Postgres + storage
 - **Tooling:** ESLint/Prettier, environment-based config for dev/staging/prod
-- 
+  
 ### Status
  
 Actively developed, private repo.
