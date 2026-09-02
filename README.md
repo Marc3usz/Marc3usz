@@ -83,8 +83,25 @@ obsession:  C — close to the metal, close to the truth
 ---
 
 ## `> cat current_project.md`
-
-> **🏗️ Olimpedia** — currently in active development. Stay tuned.
+**Olimpedia** is a platform for students preparing for scientific and subject olympiads — think of it as the missing layer between "there are hundreds of olympiads out there" and "I actually know which ones to enter and how to prepare for them."
+ 
+### What it does
+ 
+- **Olympiad database** — a structured catalog of olympiads and their benefits (scholarships, university admission perks, exemptions, etc.), so students can actually compare what's worth their time.
+- **AI-powered olympiad search** — semantic search over the database to match a student's profile/interests to relevant competitions, instead of relying on keyword matching.
+- **AI tutor** — generates practice quizzes, builds study paths for specific olympiads, and gives general prep advice, grounded in curated olympiad-specific knowledge rather than generic LLM guesswork.
+- **Deep search** — multi-step research/retrieval over olympiad-related content for more thorough, sourced answers than a single-shot query.
+Under the hood, the AI features lean on retrieval-augmented generation (RAG) to keep answers grounded in actual olympiad data rather than pure model hallucination.
+ 
+### Stack
+ 
+- **Frontend:** Next.js
+- **Backend:** Go
+- **Database:** PostgreSQL (via Supabase)
+- **Hosting:** Railway
+### Status
+ 
+Actively developed, private repo.
 
 ---
 
